@@ -61,3 +61,7 @@ Go to your shell and enter `git clone ` - space - paste-what-you-copied.
 
 Now, your local copy refers to your fork instead of this repository and
 threfore you can push your commits (and make PRs to the original repo).
+
+## Usage
+Subsequent steps to be executed can be found in numbered files. Start with
+[00_hello.md](./00_hello.md).
