@@ -1,4 +1,4 @@
-# Branches
+# Branches <3
 "Branching" is diverging from the main line of commits, which enabled
 commiting in parallel. Needless to say, branching is essential for
 distributed team work. Git's branches are extremely lightweight, so it's
