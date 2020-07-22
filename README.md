@@ -39,7 +39,7 @@ which is more or less:
      * Arch: `sudo pacman xclip xsel; xclip -sel clip < ~/.ssh/id_rsa.pub`
      * Debian, Ubuntu, Mint: `sudo apt-get install xclip; xclip -sel clip < ~/.ssh/id_rsa.pub`
      * Fedora: `sudo dnf xclip xsel; xclip -sel clip < ~/.ssh/id_rsa.pub`
-     * MacOS: `pbcopy < ~.ssh/id_rsa.pub`
+     * MacOS: `pbcopy < ~./ssh/id_rsa.pub`
    * on GitHub, go to: `Settings -> SSH and GPG keys -> New SSH key`
    * Title: enter any title you like
    * Key: paste the public key
