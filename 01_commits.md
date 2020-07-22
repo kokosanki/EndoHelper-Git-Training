@@ -10,10 +10,18 @@ Each commit consists of:
 * author
 * date
 * message
+  * summary - the first line
+  * empty line
+  * details - any number of lines
 
 You can see some examples using:
 ```bash
 git log
+```
+
+You can also see each commit in one line, for more clarity:
+```bash
+git log --pretty=oneline --abbrev-commit
 ```
 
 ## What is "good commit"?
